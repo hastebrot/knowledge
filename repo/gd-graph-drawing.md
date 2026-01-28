@@ -1,0 +1,69 @@
+- Andreola 2025. A walk on the wild side. A shape-first methodology for orthogonal drawing.pdf
+- Archambault 2024. Bundling-aware graph drawing.pdf
+- Biedl 2020. Layered fan-planar graph grawings.pdf
+- Binucci 2015. 2-layer fan-planarity. From caterpillar to stegosaurus.pdf
+- Binucci 2025. Planar stories of graph drawings. Algorithms and experiments.pdf
+- Cano 2015. Mosaic drawings and cartograms.pdf
+- Chiu 2025. Visualizing treewidth.pdf
+- Di Bartolomeo 2020. Sequence braiding. Visual overviews of temporal event sequences and attributes.pdf
+- Di Bartolomeo 2021. Stratisfimal layout. A modular optimization model for laying out layered node-link network visualizations.pdf
+- Di Bartolomeo 2022. Six methods for transforming layered hypergraphs to apply layered graph layout algorithms.pdf
+- Di Bartolomeo 2022. The worst graph layout algorithm ever.pdf
+- Dobler 2024. Revisiting ILP models for exact crossing minimization in storyline drawings.pdf
+- Dobler 2025. Optimizing wiggle in storylines.pdf
+- Hegemann 2023. A simple pipeline for orthogonal graph drawing.pdf
+- Hegemann 2024. Storylines with a protagonist.pdf
+- Hogräfer 2020, Slides. The state-of-the-art in map-like visualization.pdf
+- Hogräfer 2020. The state of the art in map-like visualization.pdf
+- Katsanou 2025. An algorithm for accurate and simple-looking metaphorical maps.pdf
+- Kleist 2018. Drawing planar graphs with prescribed face areas.pdf
+- Mashima 2011. Visualizing dynamic data with maps.pdf
+- Mchedlidze 2022. Metaphoric maps for dynamic vertex-weighted graphs.pdf
+- Mütze 2020. On L-shaped point set embeddings of trees. First non-embedable examples.pdf
+- Pang 2019. An experimental comparison of map-like visualizations and treemaps.pdf
+- Raynor 2022. The state of the art in BGP visualization tools.pdf
+- Saket 2016. Comparing node-link and node-link-group visualizations from an enjoyment perspective.pdf
+- Schnorr 2020. Visualizing dynamic clustered data using area-proportional maps.pdf
+- Simonetto 2011. ImPrEd. An improved force-directed algoritmn that prevents nodes from crossing edges.pdf
+- Wilson 2024. Evaluating and extending speedup techniques for optimal crossig minimization in layered graph drawings.pdf
+- Zhang 2019. Evaluating alignment approaches in superimposed time-series and temporal event-sequence visualizations.pdf
+- Zhang 2019. IDMVis. Temporal event sequence visualization for type 1 diabetes treatment decision support.pdf
+
+## `more/`
+
+- Agarwal 2020. Set streams. Visual exploration of dynamic overlapping sets.pdf
+- Angori 2019. ChordLink. A new hybrid visualization model.pdf
+- Archambault 2024. Bundling-aware graph drawing.pdf
+- Bach 2014. GraphDiaries. Animated transitions and temporal navigation for dynamic networks.pdf
+- Chen 2024. Distance queries over dynamic interval graphs.pdf
+- Depian 2025. Constrained boundary labeling.pdf
+- Di Bartolomeo 2023, Thesis. Layered graphs and their layouts, evaluations, and applications.pdf
+- Pedia 2018. A system for generating storyline visualizatoins using hierarchical task network planning.pdf
+- Simonetto 2015. A simple approach for boundary improvement of euler diagrams.pdf
+- Tanahashi 2012. Design considerations for optimizing storyline visualizations.pdf
+
+## `papers-gd-eurovis/`
+
+- Becker 2025. Seamless collaborative coding with visualization.pdf
+- Bludau 2023. Unfolding edges. Adding context to edges in multivariate graph visualization.pdf
+- Brich 2023. visMOP. A visual analytics approach for multi-omics pathways.pdf
+- Cibulski 2023. Composed. Composite parallel coordinates for co-dependent multi-attribute choices.pdf
+- Correll 2023. Teru teru bozu. Defensive raincloud plots.pdf
+- Glombik 2025. Visually exploring team communication and gameplay events in league of legends.pdf
+- Liebers 2023. VisCoMET. Visually analyzing team collaboration in medical emergency trainings.pdf
+- Mayer 2023. A characterization of interactive visual data stories with a spatio‐temporal context.pdf
+- Mendez 2023. Evonne. A visual tool for explaining reasoning with OWL ontologies and supporting interactive debugging.pdf
+- Narciso 2025. DigitalTraces. Unveiling fraud through interactive user behaviour exploration.pdf
+- Paetzold 2023. RectEuler supplementary.pdf
+- Paetzold 2023. RectEuler. Visualizing intersecting sets using rectangles.pdf
+- Pahr 2025. Squishicalization. Exploring elastic volume physicalization.pdf
+- Riehmann 2025. Burger charts. A quantitative display of set intersections.pdf
+- Stoppacher 2025. Guided visual analysis of time series data with spiral views and view quality measures.pdf
+- Tytarenko 2024. Hierarchical topic maps for visual exploration and comparison of documents.pdf
+- Van den Brandt 2025. Multipla. Multiscale pangenomic locus analysis.pdf
+- Van den Brandt 2025. Sequence tube maps for structural variants.pdf
+- Van der Linden 2023. FlexEvent. Going beyong case-centric exploration and analysis of multivariate event sequences.pdf
+- Van Onzenoodt 2023. Out of the plane. Flower vs. star glyphs to support high-dimensional exploration in two-dimensional embeddings.pdf
+- Vohra 2024. A visual interface for exploring hypotheses about neural circuits.pdf
+- Wallinger 2023. Faster edge-path bundling through graph spanners.pdf
+- Zinat 2023. A comparative evaluation of visual summarization techniques for event sequences.pdf

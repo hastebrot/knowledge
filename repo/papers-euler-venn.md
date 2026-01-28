@@ -1,0 +1,36 @@
+- Blake 2014. The impact of shape on the perception of euler diagrams.pdf
+- Cordasco 2011. Efficient on-line algorithms for euler diagram region computation.pdf
+- Dürrschnabel 2024. Realizabilty of rectangular euler diagrams.pdf
+- Ehlers 2024. An introduction to and survey of biological network visualization.pdf
+- Flower 2004. Automated theorem proving with spider diagrams.pdf
+- Gomez-Nieto 2013. Mixed integer optimization for layout arrangement.pdf
+- Kehlbeck 2021. spEuler. Semantics-preserving euler diagrams.pdf
+- Kehlbeck 2024. Visualization and semantic analysis of relations in textual data.pdf
+- Lamy 2016. Rainbow boxes. A technique for visualizing overlapping sets and an application to the comparison of drugs properties.pdf
+- Lamy 2017. Using visual analytics for presenting comparative information on new drugs.pdf
+- Lamy 2018. A new diagram for amino acids. User study comparing rainbow boxes to venn euler diagram.pdf
+- Larsson 2018. eulerr. Area-proportional euler diagrams with ellipses.pdf
+- Luz 2018. An application of mosaic diagrams to the visualization of set relationships.pdf
+- Micallef 2014. eulerForce. Force-directed layout for euler diagrams.pdf
+- Paetzold 2023, Supplementary. RectEuler. Visualizing intersecting sets using rectangles.pdf
+- Paetzold 2023. RectEuler. Visualizing intersecting sets using rectangles.pdf
+- Priss 2023. Representing concept lattices with euler diagrams.pdf
+- Priss 2025. Layout decisions for tabular euler diagrams.pdf
+- Rodgers 2013. A survey of euler diagrams.pdf
+- Rodgers 2016. A task-based evaluation of combined seet and network visualization.pdf
+- Romat 2019. Expressive authoring of node-link diagrams with graphies.pdf
+- Rottmann 2024. Generating euler diagrams through combinatorial optimization.pdf
+- Simonetto 2008. Visualise undrawable euler diagrams.pdf
+- Simonetto 2009. Fully automatic visualisation of overlapping sets.pdf
+- Simonetto 2012. Visualisation of overlapping sets and clusters with euler diagrams.pdf
+- Simonetto 2016. A simple approach for boundary improvement of euler diagrams.pdf
+
+## `2025-12/`
+
+- Chimani 2018. Exact algorithms for the maximum planar subgraph problem. New models and experiments.pdf
+- Rahman 2021. Multi-objective urban land use optimization using spatial data. A systematic review.pdf
+- Rios-Mercado 2020. Optimal districting and territory design.pdf
+- Shen 2022. Sangerbox. A comprehensive, interaction-friendly clinical bioinformatics analysis platform.pdf
+- Xiao 2025. A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems.pdf
+- Yang 2024, Slides. Visualizing set relationships. EVenn's comprehensive approach to venn diagrams.pdf
+- Yang 2024. Visualizing set relationships. EVenn's comprehensive approach to venn diagrams.pdf
