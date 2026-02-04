@@ -1,8 +1,8 @@
 # knowledge
 
-collections:
+listings:
 
-| collection | description |
+| listing | description |
 | --- | --- |
 | drawing graph | |
 | drawing layered graph | |

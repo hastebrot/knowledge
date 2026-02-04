@@ -1,0 +1,119 @@
+- Alegria 2022. Unit-length rectangular drawings of graphs.pdf
+- Alegria 2024. Unit-length rectangular drawings of graphs.pdf
+- Angelini 2022. On mixed linear layouts of series-parallel graphs.pdf
+- Aspegren 2015. CluStic. Automatic graph drawing with clusters.pdf
+- Baburin 2002. Some modifications of Sugiyama appraoch.pdf
+- Bachmaier 2012. Grid sifting. Leveling and crossing reduction.pdf
+- Balci 2021. fCoSE. A fast compound graph layout algorithm with constraint support.pdf
+- Balci 2025. User-guided force-directed graph layout.pdf
+- Bekos 2013. Slanted orthogonal drawings.pdf
+- Bekos 2014. Slanted orthogonal drawings. Model, algorithm and evaluations.pdf
+- Bekos 2015. Sloginsky drawing of graphs.pdf
+- Bekos 2023. Graph drawing and network visualization. 31st international symposium. GD 2023.pdf
+- Bernardi 2025. A census of graph-drawing algorithms based on generalized transversal structures.pdf
+- Bhore 2023. Extending orthogonal planar graph drawings is fixed-parameter tractable.pdf
+- Binucci 2023. Min-k-planar drawing of graphs.pdf
+- Bläsius 2016. Orthogonal graph drawing with inflexible edges.pdf
+- Chimani 2009. Upwad planarization layout.pdf
+- Cornelsen 2012. Accelerated bend minimization.pdf
+- Czauderna 2023. Creating aesthetically pleasing SBGN visualizations for presentation and exploration.pdf
+- Da Rocha 2022. CleanGraph II. Improved graph drawings of family trees and UML class diagrams.pdf
+- Di Battista 1994. Algorithms for drawing graphs. An annotated bibliography.pdf
+- Di Battista 1999. Graph drawing. Algorithms for the visualization of graphs.pdf
+- Di Giacomo 2014. Upward-rightward planar drawings.pdf
+- Di Giacomo 2018. Polyline drawings with topological contraints.pdf
+- Didimo 2018. Bend-minimum orthogonal drawings in quadratic time.pdf
+- Didimo 2023. Computing bend-minimum orthogonal drawings of plane series-parallel graphs in linear time.pdf
+- Förster 2020. Graph drawing. Beyond the beaten tracks.pdf
+- Gemsa 2020. Placing labels in road maps. Algorithms and complexity.pdf
+- Gupta 2023. Drawn tree decomposition. New approach for graph drawing problems.pdf
+- Kornaropoulos 2011. Overloaded orthogonal drawings.pdf
+- Kornaropoulos 2012. DAGView. An approach for visualizing large graphs.pdf
+- Kornaropoulos 2012. Dominance drawing of non-planar graphs.pdf
+- Kornaropoulos 2016. Algorithms and bounds for overloaded orthogonal drawings.pdf
+- Krug 2015. New approaches on octilinear graph drawing.pdf
+- Marik 2018. On multitree-like graph layering.pdf
+- Marik 2019. Multitree-like graph layering crossing optimization.pdf
+- Markatou 2024. Reconstructing with even less. Amplifying leakage and drawing graphs.pdf
+- Mchedlidze 2018. Aligned drawings of planar graphs.pdf
+- Merdol 2025. SAA. A framework for improving the software development process via visualization-based software analytics.pdf
+- Nachmanson 2006. Notes on an implementation of Sugiyama's scheme.pdf
+- Niedermann 2020. An integer-linear program for bend-minimization in ortho-radial drawings.pdf
+- Okka 2021. CoSEP. A compound spring embedder layout algorithm with support for ports.pdf
+- Rougny 2023. StonPy. A tool to parse and query collections of SBGN maps in a graph database.pdf
+- Royer 2025. Towards better CFG layouts.pdf
+- Rüegg 2017. Minimum-with graph layering revisited.pdf
+- Tamassia 2013, Pre-print. Handbook of graph drawing and visualization.pdf
+- Tamassia 2014, Preview. Handbook of graph drawing and visualization.pdf
+- Tamassia 2014, Scan. Handbook of graph drawing and visualization.pdf
+- Tikka 2023. Clustering and structural robustness in causal diagrams.pdf
+- Zafar 2025. CMGV. Algorithms and a unified framework for complexity management in graph visualization.pdf
+- Zhang 2015. Organizational chart inference.pdf
+- Zhang 2016. Graph layout with versatile boundary constraints.pdf
+
+## cops-and-robbers/
+
+- Abrahamsen 2021. Best laid plans of lions and men.pdf
+- Abrahamsen 2021. Escaping an infinitude of lions.pdf
+- Alon 2015. Chasing a fast robber on planar graphs and random graphs.pdf
+- Balev 2023. Cops and robbers on dynamic graphs. Offline and online case.pdf
+- Ben-Ameur 2024. A cops and robber game and the meeting time of synchronous directed walks.pdf
+- Berge 2026. Nemesis, an escape game in graphs.pdf
+- Bonato 2010. Cops and robbers from a distance.pdf
+- Bonato 2010. The game of cops and robbers on graphs.pdf
+- Bonato 2011. Catch me if you can. Cops and robbers on graphs.pdf
+- Bonato 2015. A general framework for discrete-time pursuit games.pdf
+- Bonato 2016. A probabilistic version of the game of zombies and survivors on graphs.pdf
+- Bonato 2017. Characterizations and algorithms for generalized cops nd robbers games.pdf
+- Bonato 2018. Graph searching games and probabilistic methods.pdf
+- Bonato 2022. An invitation to pursuit-evasion games and graph theory.pdf
+- Bonato 2022. Discrete mathematics.pdf
+- Bonato 2024. Discrete mathematics. Solution manual.pdf
+- Bose 2022, LIPIcs. Pursuit-evasion in graphs. Zombies, lazy zombies and a survivor.pdf
+- Bose 2022. Pursuit-evasion in graphs. Zombies, lazy zombies and a survivor.pdf
+- Burgess 2020. Cops that surround a robber.pdf
+- Chalopin 2010. Cop and robber games when the robber can hide and ride.pdf
+- Cohen 2016. Spy-game on graphs.pdf
+- Cohen 2018. Study of a combinatorial game in grpahs through linear programming.pdf
+- Costa 2021. Spy game. FPT-algorithm, hardness and graph products.pdf
+- Costa 2023. Algorithms, hardness and graph products on a pursuit-evasion game.pdf
+- Das 2021. Variations of cops and robbers game on grids.pdf
+- Dereniowski 2019. Cops, a fast robber and defensive domination on interval graphs.pdf
+- Erlebach 2024. A cop and robber game on edge-periodic temporal graphs.pdf
+- Fomin 2009. Pursuing a fast robber on a graph.pdf
+- Fomin 2010. Cops and robber game without recharging.pdf
+- Fomin 2011. Guard games on graphs. Keep the intruder out.pdf
+- Fomin 2012. Cops and robber with constraints.pdf
+- Fraenkel 2007. Combinatorial games. Selected biography with a succinct gourmet introduction.pdf
+- Fraenkel 2012. Combinatorial games. Selected biography with a succinct gourmet introduction.pdf
+- Frieze 2010. Variations on cops and robbers.pdf
+- Gahlawat 2023. Cops and robber on variants of retracts and subdivisions of oriented graphs.pdf
+- Gillott 2025. A convering pursuit game.pdf
+- Greco 2016. Greedy strategies and larger islands of tractability for conjunctive queries and constraint satisfaction problems.pdf
+- Ha 2024. Primal-dual cops and robber.pdf
+- Hahn 2006. A note on k-cop, l-robber games on graphs.pdf
+- Isler 2008. The role of information in the cop-robber game.pdf
+- Kehagias 2013. Cops and invisible robbers. The cost of drunkenness.pdf
+- Kinnersley 2018. Cops, robbers, and burning bridges.pdf
+- Kinnersley 2022. Catching an infinitely fast robber on a grid.pdf
+- Kinnersley 2025. Accelerated cops and robbers.pdf
+- Komarov 2013. Capture time in variants of cops and robbers games.pdf
+- Lamprou 2013. Robbing, surfing and rioting games on graphs. Some results.pdf
+- Liu 2024. Zombies and survivors on graph classes.pdf
+- Luckraz 2022. A note on some weaker notions of cop-win and robber-win graphs.pdf
+- Simard 2021. General cops and robbers games with randomness.pdf
+- Simard 2024. Temporal distances and cops and robber games on temporal networks.pdf
+- Torunczyk 2024. Flip-width. Cops and robber on dense graphs.pdf
+- Van den Bergh 2017. The game of cops and robbers on geometric graphs.pdf
+
+## knapsack/
+
+- Boeckmann 2023. Approximating single- and multi-objective nonlinear sum and product knapsack problems.pdf
+- Bökler 2022. On the rectangular knapsack problem.pdf
+- Cacchiani 2022. Knapsack problems. An overview of recent advances. Part I.pdf
+- Cacchiani 2022. Knapsack problems. An overview of recent advances. Part II.pdf
+- Feng 2025. Recent advances in knapsack problem. A comprehensive review of models, algorithms, and applications.pdf
+- Gemsa 2020. Placing labels in road maps. Algorithms and complexity.pdf
+- Hashim 2024. Performance analysis of simulated annealing on the 0-1 knapsack problem.pdf
+- Schulze 2020. On the rectangular knapsack problem. Approximation of a specific quadratic knapsack problem.pdf
+- Zhou 2023. Nature-inspired algorithms for 0-1 knapsack problem. A survey.pdf
