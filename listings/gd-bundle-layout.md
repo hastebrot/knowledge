@@ -1,3 +1,5 @@
+## `uiux-bundle-layout/`
+
 - Angelini 2015. L-drawings of directed graphs.pdf
 - Angelini 2018. Algorithms and bounds for L-drawings of directed graphs.pdf
 - Angelini 2020. Planar L-drawings of bimodal graphs.pdf
@@ -11,7 +13,7 @@
 - Bekos 2014. Planar octilinear drawings with one bend per edge.pdf
 - Besa 2019. Computing k-modal embeddings of planar digraphs.pdf
 - Binucci 2023. Upward book embeddability of st-graphs. Complexity and algorithms.pdf
-- Bulatovic 2020. Area-efficient drawings of outer-1-planar graphs.pdf
+- Bulatovic 2020, Thesis. Area-efficient drawings of outer-1-planar graphs.pdf
 - Chaplick 2017, arXiv. Planar L-drawings of directed graphs.pdf
 - Chaplick 2017. Planar L-drawings of directed graphs.pdf
 - Chaplick 2020. Bundled crossings revisited.pdf
@@ -28,47 +30,39 @@
 - Kakoulis 2016. Modifying orthogonal drawings for label placement.pdf
 - Klawitter 2022. Upward planar drawings with three and more slopes.pdf
 - Kornaropoulos 2016. Algorithms and bounds for overloaded orthogonal drawings.pdf
-- Lionakis 2023. Analysis and visualization of directed graphs.pdf
+- Lionakis 2023, Thesis. Analysis and visualization of directed graphs.pdf
 - Meikari 2024. Simultaneous optimization of edge bundling and node layout using genetic algorithm.pdf
 - Ortali 2012. A fixed-parameter algorithm for dominance drawings of DAGs.pdf
 - Ortali 2018. Algorithms and bounds for drawing directed graphs.pdf
 - Six 2000. Techniques for the refinement of orthogonal graph drawings.pdf
 
-## `more/`
+## `uiux-bundle-layout/zinsvis/`
 
-- Abdelaal 2023. Comparative evaluation of bipartite, node-link, and matrix-based network representations.pdf
-- Angelini 2018. 1-fan-bundle-planar drawings of graphs.pdf
-- Angelini 2019. Greedy rectilinear drawings.pdf
-- Baumeister 2025, Sachbericht. Verbesserte Zugänglichkeit zu industriellen Netzwerken durch smarte Visualisierung.pdf
-- Bennett 2007. The aesthetics of graph visualization.pdf
-- Biedl 2020. On layered fan-planar graph drawings.pdf
-- Chan 2020. Improved upper and lower bounds for LR drawings of binary trees.pdf
-- Chaplick 2016. Drawing graphs on few lines and few planes.pdf
-- Chaplick 2020. Drawing graphs with circular arcs and right-angle crossings.pdf
-- Chaplick 2020. Monotone arc diagrams with few biarcs.pdf
-- Chaplick 2024. Monotone arc diagrams with few biarcs.pdf
-- Chaplick 2024. Snakes and ladders. A treewidth story.pdf
+- Baumeister 2025, Report. Verbesserte Zugänglichkeit zu industriellen Netzwerken durch smarte Visualisierung.pdf
 - Deynet 2024. Graph harvester.pdf
-- Dobler 2025. Optimizing wiggle in storylines.pdf
-- Domrös 2024 Determining Sugiyama topology with model order.pdf
-- Goodarzi 2022. Crossing reduction in circular layouts under grouping constraints.pdf
-- Gutowski 2022. Coloring mixed and directional interval graphs.pdf
+- Goodarzi 2022, Thesis. Crossing reduction in circular layouts under grouping constraints.pdf
 - Hegemann 2023. A simple pipeline for orthogonal graph drawing.pdf
-- Hegemann, Kurzbericht. Verbesserte Zugänglichkeit zu industriellen Netzwerken durch smarte Visualisierung.pdf
-- Hoffmeyer 2024. Erkennung von gerichteten Intervallgraphen.pdf
-- Jabrayilov 2016. Compact layered drawings of general directed graphs.pdf
-- Kamphowe 2024. Visualisierung von Prozessgraphen im Rahmen des Process Mining.pdf
-- Körner 2023. Stauchung orthogonaler Graphenzeichnungen mithilfe komplexer Schnitte.pdf
-- Lang 2024. Generierung von schönen Graphzeichnungen mit Kreisbögen für Graph mit zwei Knotenklassen.pdf
-- Leu 2021. Scalable drawing of nested directed acyclic graphs with gates and ports.pdf
-- Schopka 2022. Generalisierung orthogonal gezeichneter Pläne.pdf
-- Van Wageningen 2023. Identifying cluttering edges in near-planar graphs.pdf
-- Wilson 2024. Evaluating and extending speedup techniques for optimal crossing minimization in layered graph drawings.pdf
-- Wilson 2024. Fast and readble layered network visualizations using large neighborhood search.pdf
-- Zhao 2025. Graph visualization efficiency of popular web-based libraries.pdf
+- Hegemann 2025, Report. Verbesserte Zugänglichkeit zu industriellen Netzwerken durch smarte Visualisierung.pdf
+- Kamphowe 2024, Thesis. Visualisierung von Prozessgraphen im Rahmen des Process Mining.pdf
+- Körner 2023, Thesis. Stauchung orthogonaler Graphenzeichnungen mithilfe komplexer Schnitte.pdf
+- Lang 2024, Report. Generierung von schönen Graphzeichnungen mit Kreisbögen für Graph mit zwei Knotenklassen.pdf
+- Pupyrev 2012. Edge routing with ordered bundles.pdf
+- Pupyrev 2016. Edge routing with ordered bundles.pdf
+- Schopka 2022, Thesis. Generalisierung orthogonal gezeichneter Pläne.pdf
+- Wallinger 2025. How do people perceive bundling. An experiment.pdf
+- Zink 2020, Slides. Layered drawing of undirected graphs with generalized port constraints.pdf
 - Zink 2023. Layered drawing of undirected graphs with generalized port constraints.pdf
 
-## `lombardi-papers/`
+## `uiux-bundle-layout/praline/`
+
+- Herrmann 2022, Slides. Storyline-Visualisierungen für wissenschaftliche Kollaborationsgraphen.pdf
+- Herrmann 2022, Thesis. Storyline-Visualisierungen für wissenschaftliche Kollaborationsgraphen.pdf
+- Kakoulis 2016. Modifying orthogonal drawings for label placement.pdf
+- Kieffer 2015. HOLA. Human-like orthogonal network layout.pdf
+- Lipp 2015. Faster force-directed graph drawing with the well-separated pair decomposition.pdf
+- Lipp 2016. Faster force-directed graph drawing with the well-separated pair decomposition.pdf
+
+## `uiux-bundle-layout/lombardi-papers/`
 
 - Ahnert 2020. The network turn. Changing perspectives in the humanities.pdf
 - Andreatta, Chapter. Which came first, the circle or the wheel. From idea to concrete construction.pdf
@@ -105,3 +99,42 @@
 - Williams-Wynn 2025. Elusive operations. Goldin + Senneby's headless and the aesthetic techniques of offshore finance art.pdf
 - Zdebik 2011, Racar. Networks of corruption. The aesthetics of Mark Lombardi's relational diagrams.pdf
 - Zdebik 2011. Networks of corruption. The aesthetics of Mark Lombardi's relational diagrams.pdf
+
+## `uiux-bundle-layout/more-1/`
+
+- Abdelaal 2023. Comparative evaluation of bipartite, node-link, and matrix-based network representations.pdf
+- Angelini 2018. 1-fan-bundle-planar drawings of graphs.pdf
+- Angelini 2019. Greedy rectilinear drawings.pdf
+- Bennett 2007. The aesthetics of graph visualization.pdf
+- Biedl 2020. On layered fan-planar graph drawings.pdf
+- Chan 2020. Improved upper and lower bounds for LR drawings of binary trees.pdf
+- Chaplick 2016. Drawing graphs on few lines and few planes.pdf
+- Chaplick 2020. Drawing graphs with circular arcs and right-angle crossings.pdf
+- Chaplick 2020. Monotone arc diagrams with few biarcs.pdf
+- Chaplick 2024. Monotone arc diagrams with few biarcs.pdf
+- Chaplick 2024. Snakes and ladders. A treewidth story.pdf
+- Dobler 2025. Optimizing wiggle in storylines.pdf
+- Domrös 2024 Determining Sugiyama topology with model order.pdf
+- Gutowski 2022. Coloring mixed and directional interval graphs.pdf
+- Hoffmeyer 2024, Thesis. Erkennung von gerichteten Intervallgraphen.pdf
+- Jabrayilov 2016. Compact layered drawings of general directed graphs.pdf
+- Leu 2021, Thesis. Scalable drawing of nested directed acyclic graphs with gates and ports.pdf
+- Van Wageningen 2023. Identifying cluttering edges in near-planar graphs.pdf
+- Wilson 2024. Evaluating and extending speedup techniques for optimal crossing minimization in layered graph - drawings.pdf
+- Wilson 2024. Fast and readble layered network visualizations using large neighborhood search.pdf
+- Zhao 2025. Graph visualization efficiency of popular web-based libraries.pdf
+
+## `uiux-bundle-layout/more-2/`
+
+- Agrawal 2024. Eliminating crossings in ordered graphs.pdf
+- Antic 2025. Unbent collections of orthogonal drawings.pdf
+- Auber 2020. Graph drawing and network visualization. 28th international symposium. GD 2020.pdf
+- Bekos 2017. On RAC drawings of 1-planar graphs.pdf
+- Cornelsen 2025. Hypergraphs as metro maps. Drawing paths with few bends in trees, cacti, and plane 4-graphs.pdf
+- Di Giacomo 2025. Linear layouts of graphs with priority queues.pdf
+- Geiger 2021. ClusterSets. Optimizing planar clusters in categorical point data.pdf
+- Gutowski 2025. One-sided local crossing minimization.pdf
+- Hartleb 2025. Visualization of event graphs for train schedules.pdf
+- Hegemann 2024. Storylines with a protagonist.pdf
+- Katheder 2024. Simultaneous drawing of layered trees.pdf
+- Mooney 2025. Universal quality metrics for graph drawings. Which graphs excite us most.pdf
