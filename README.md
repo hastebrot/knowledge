@@ -6,7 +6,7 @@ listings:
 | --- | --- |
 | drawing graph | |
 | drawing layered graph | |
-| drawing bundle graph | |
+| drawing bundle graph | [gd-bundle-layout.md](listings/gd-bundle-layout.md) |
 | drawing set | |
 | drawing euler venn | |
 | drawing orgchart | |

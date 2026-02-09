@@ -1,3 +1,17 @@
+Angelini 2015. L-drawings of directed graphs.pdf
+![](../images/papers-bundle-layout/angelini-2015-1.png)
+![](../images/papers-bundle-layout/angelini-2015-2.png)
+![](../images/papers-bundle-layout/angelini-2015-3.png)
+
+Chaplick 2017. Planar L-drawings of directed graphs.pdf
+![](../images/papers-bundle-layout/chaplick-2017-1.png)
+![](../images/papers-bundle-layout/chaplick-2017-2.png)
+![](../images/papers-bundle-layout/chaplick-2017-3.png)
+
+Baumeister 2025, Report. Verbesserte Zugänglichkeit zu industriellen Netzwerken durch smarte Visualisierung.pdf
+![](../images/papers-bundle-layout/baumeister-2025-1.png)
+![](../images/papers-bundle-layout/baumeister-2025-2.png)
+
 ## `uiux-bundle-layout/`
 
 - Angelini 2015. L-drawings of directed graphs.pdf
