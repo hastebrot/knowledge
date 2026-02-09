@@ -1,3 +1,5 @@
+## `papers-gd-setvis/`
+
 - Agarwal 2020. Set streams. Visual exploration of dynamic overlapping sets.pdf
 - Akitaya 2016. Multi-colored spanning graphs.pdf
 - Akitaya 2020. Multi-colored spanning graphs.pdf
@@ -44,7 +46,7 @@
 - Yan 2023. EulerMerge. Simplifying euler diagrams through set merges.pdf
 - Zhou 2025. Cluster-aware grid layout.pdf
 
-## `2025-1/`
+## `papers-gd-setvis/more-1/`
 
 - Agarwal 2020. Visualizing sets and changes in membership using layered set intersection graphs.pdf
 - Agarwal 2022. CiteVis. Visual analysis of overlapping citation intents as dynamic sets.pdf
@@ -66,7 +68,7 @@
 - Zhu 2021. Visualizing large-scale high-dimensional data via hierarchical embedding of KNN graphs.pdf
 - Zhu 2023. Towards better pattern enhancement in temporal evolving set visualization.pdf
 
-## `2025-2/`
+## `papers-gd-setvis/more-2/`
 
 - Alsallakh 2016. PowerSet. A comprehensive visualization of set intersections.pdf
 - Beurskens 2025. ParkView. Visualizing monotone interleavings.pdf
@@ -122,7 +124,7 @@
 - Zhou 2024. AdaMotif. Graph simplification via adaptive motif design.pdf
 - Zhu 2023. Towards better pattern enhancement in temporal evolving set visualization.pdf
 
-## `2025-3/`
+## `papers-gd-setvis/more-3/`
 
 - Aichem 2025. De-emphsise, aggregate, and hide. A study of interactive visual transformations for group structures in network visualisations.pdf
 - Gölz 2025. City sampling for citizens assemblies.pdf
@@ -136,7 +138,7 @@
 - Zhong 2023. Force-directed graph layouts revisited. A new force based on the t-distribution.pdf
 - Zhu 2019. How people visually represent discrete constraint problems.pdf
 
-## `papers-gd-hammock/`
+## `papers-gd-setvis/papers-gd-hammock/`
 
 - Brath 2016. Typographic sets. Labeled set elements with font attributes.pdf
 - Carre 2022. AutoComBat. A generic method for harmonizing MRI-based radiomic features.pdf
@@ -154,7 +156,7 @@
 - Stapleton 2012. Automatically drawing euler diagrams with circles.pdf
 - VanderPlas 2023. Penguins go parallel. A grammar of graphics framework for generalized parallel coordinate plots.pdf
 
-## `papers-gd-upset/`
+## `papers-gd-setvis/papers-gd-upset/`
 
 - Alsallakh 2016. The state of the art of set visualization.pdf
 - Alsallakh 2024. Radial sets. Interactive visual analysis of large overlapping sets.pdf
@@ -194,7 +196,7 @@
 - Yalcin 2015. AggreSet. Rich and scalable set exploration using visualizations of element aggregations.pdf
 - Yalcin 2018. Keshif. Rapid and expressive tabular data exploration for novices.pdf
 
-## `papers-gis/`
+## `papers-gd-setvis/papers-gis/`
 
 - Bonerath 2019. Retrieving alpha-shapes and schematic polygonal approximations for sets of points within queries temporal ranges.pdf
 - Carlsson 2023. Computing the alpha complex using dual active set quadratic programming.pdf
@@ -203,7 +205,7 @@
 - Haunert 2010. Optimal and topologically safe simplification of building footprints.pdf
 - Rosenberger 2025. Simultaneous selection and displacement of buildings and roads for map generalization via mixed-integer quadratic programming.- pdf
 
-## `speckmann/`
+## `papers-gd-setvis/speckmann/`
 
 - Speckmann 2023. Optimal in-place compaction of sliding cubes.pdf
 - Speckmann 2024. Capturing the shape of a point set with a line segment.pdf

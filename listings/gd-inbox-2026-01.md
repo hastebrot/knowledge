@@ -1,3 +1,5 @@
+## `inbox-2026-01/`
+
 - Alegria 2022. Unit-length rectangular drawings of graphs.pdf
 - Alegria 2024. Unit-length rectangular drawings of graphs.pdf
 - Angelini 2022. On mixed linear layouts of series-parallel graphs.pdf
@@ -9,6 +11,8 @@
 - Bekos 2013. Slanted orthogonal drawings.pdf
 - Bekos 2014. Slanted orthogonal drawings. Model, algorithm and evaluations.pdf
 - Bekos 2015. Sloginsky drawing of graphs.pdf
+- Bekos 2017, Slides. On smooth orthogonal and octilinear drawings. Relations, complexity and Kandinsky drawings.pdf
+- Bekos 2017. On smooth orthogonal and octilinear drawings. Relations, complexity and Kandinsky drawings.pdf
 - Bekos 2023. Graph drawing and network visualization. 31st international symposium. GD 2023.pdf
 - Bernardi 2025. A census of graph-drawing algorithms based on generalized transversal structures.pdf
 - Bhore 2023. Extending orthogonal planar graph drawings is fixed-parameter tractable.pdf
@@ -51,7 +55,7 @@
 - Zhang 2015. Organizational chart inference.pdf
 - Zhang 2016. Graph layout with versatile boundary constraints.pdf
 
-## cops-and-robbers/
+## `inbox-2026-01/cops-and-robbers/`
 
 - Abrahamsen 2021. Best laid plans of lions and men.pdf
 - Abrahamsen 2021. Escaping an infinitude of lions.pdf
@@ -106,7 +110,7 @@
 - Torunczyk 2024. Flip-width. Cops and robber on dense graphs.pdf
 - Van den Bergh 2017. The game of cops and robbers on geometric graphs.pdf
 
-## knapsack/
+## `inbox-2026-01/knapsack/`
 
 - Boeckmann 2023. Approximating single- and multi-objective nonlinear sum and product knapsack problems.pdf
 - Bökler 2022. On the rectangular knapsack problem.pdf
@@ -117,3 +121,15 @@
 - Hashim 2024. Performance analysis of simulated annealing on the 0-1 knapsack problem.pdf
 - Schulze 2020. On the rectangular knapsack problem. Approximation of a specific quadratic knapsack problem.pdf
 - Zhou 2023. Nature-inspired algorithms for 0-1 knapsack problem. A survey.pdf
+
+## `inbox-2026-01/layered/`
+
+- Bachmaier 2009, Thesis. A generalized framework for drawing directed graphs.pdf
+- Barth 2002. Simple and efficient bilayer cross counting.pdf
+- Barth 2022, Thesis. Übersichtliches Zeichnen von literarischen Netzwerken mittels des Sugiyama-Frameworks.pdf
+- Brandes 2002. Fast and simple horizontal coordinate assignment.pdf
+- Brandes 2020. Erratum. Fast and simple horizontal coordinate assignment.pdf
+- Eiglsperger 2005. An efficient implementation of Sugiyama's algorithm for layered graph drawing.pdf
+- Klawitter 2016, Thesis. Algorithms for crossing minimisation in book drawings.pdf
+- Nguyen 2022. Shuffle & untangle. Novel untangle methods for solving the taglegram layout problem.pdf
+- Rüegg 2015. Size- and port-aware horizontal node coordinate assignment.pdf

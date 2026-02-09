@@ -1,3 +1,5 @@
+## `uiux-organigram-2026/`
+
 - Chan 2018, Arxiv. Tree drawings revisited.pdf
 - Chan 2018. Tree drawings revisited.pdf
 - Chiplunkar 2025, Proposal. Practical compositional diagramming.pdf
@@ -8,18 +10,7 @@
 - Misue 2024. Area-adaptive drawing of rooted trees.pdf
 - Racine 2025. Efficient algorithms for drawing large genealogy trees.pdf
 
-## `ieee-vis-2023/`
-
-- Deng, 2023. Multilevel visual analysis of aggregate geo-networks.pdf
-- Deng, 2023. Revisiting the design patterns of composite visualizations.pdf
-- Kim, 2023. Towards visualization thumbnail designs that entice reading data-driven articles.pdf
-- Van den Brandt, 2023. PanVA. Pangenomic variant analysis.pdf
-- Van den Brandt, 2024. PanVA. Pangenomic variant analysis.pdf
-- Van den Brandt, 2025. PanVA. A visual analytics tool for pangenomic variant analysis.pdf
-- Xue, 2023. Target netgrams. An annulus-constrained stress model for radial graph visualization.pdf
-- Zeng, 2023. Semi-automatic layout adaptation for responsive multiple-view visualization design.pdf
-
-## `more/`
+## `uiux-organigram-2026/more/`
 
 - Dujmovic 2013. Graph layouts via layered separators.pdf
 - Dwyer 2010. Hi-tree layout using quadratic programming.pdf
@@ -35,3 +26,14 @@
 - Vehlow 2017. Visualizing group structures in graphs. A survey.pdf
 - Wu 2021. Graph models for biological pathay visualization. State of the art and future challenges.pdf
 - Yoghourdjian 2015. High-quality ultra-compact grid layout of grouped networks.pdf
+
+## `uiux-organigram-2026/ieee-vis-2023/`
+
+- Deng, 2023. Multilevel visual analysis of aggregate geo-networks.pdf
+- Deng, 2023. Revisiting the design patterns of composite visualizations.pdf
+- Kim, 2023. Towards visualization thumbnail designs that entice reading data-driven articles.pdf
+- Van den Brandt, 2023. PanVA. Pangenomic variant analysis.pdf
+- Van den Brandt, 2024. PanVA. Pangenomic variant analysis.pdf
+- Van den Brandt, 2025. PanVA. A visual analytics tool for pangenomic variant analysis.pdf
+- Xue, 2023. Target netgrams. An annulus-constrained stress model for radial graph visualization.pdf
+- Zeng, 2023. Semi-automatic layout adaptation for responsive multiple-view visualization design.pdf
