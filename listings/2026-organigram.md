@@ -1,4 +1,4 @@
-## `uiux-organigram-2026/`
+## `papers-organigram-2026/`
 
 - Chan 2018, Arxiv. Tree drawings revisited.pdf
 - Chan 2018. Tree drawings revisited.pdf
@@ -10,11 +10,11 @@
 - Misue 2024. Area-adaptive drawing of rooted trees.pdf
 - Racine 2025. Efficient algorithms for drawing large genealogy trees.pdf
 
-## `uiux-organigram-2026/more/`
+## `papers-organigram-2026/more/`
 
 - Dujmovic 2013. Graph layouts via layered separators.pdf
 - Dwyer 2010. Hi-tree layout using quadratic programming.pdf
-- He 2020. An indented lavel-based tree drawing algorithm for text visualization.pdf
+- He 2020. An indented level-based tree drawing algorithm for text visualization.pdf
 - Marriott 2011. Hi-trees and their layout.pdf
 - Neumann 2005. ArcTrees. Visualizing relations in hierarchical data.pdf
 - Riehmann 2025. Burger charts. A quantitative display of set intersections.pdf
@@ -24,10 +24,10 @@
 - Sonke 2018. Optimal algorithms for compact linear layouts.pdf
 - Van der Ploeg 2013. Drawing non-layered tidy trees in linear time.pdf
 - Vehlow 2017. Visualizing group structures in graphs. A survey.pdf
-- Wu 2021. Graph models for biological pathay visualization. State of the art and future challenges.pdf
+- Wu 2021. Graph models for biological pathway visualization. State of the art and future challenges.pdf
 - Yoghourdjian 2015. High-quality ultra-compact grid layout of grouped networks.pdf
 
-## `uiux-organigram-2026/ieee-vis-2023/`
+## `papers-organigram-2026/ieee-vis-2023/`
 
 - Deng, 2023. Multilevel visual analysis of aggregate geo-networks.pdf
 - Deng, 2023. Revisiting the design patterns of composite visualizations.pdf
@@ -37,3 +37,13 @@
 - Van den Brandt, 2025. PanVA. A visual analytics tool for pangenomic variant analysis.pdf
 - Xue, 2023. Target netgrams. An annulus-constrained stress model for radial graph visualization.pdf
 - Zeng, 2023. Semi-automatic layout adaptation for responsive multiple-view visualization design.pdf
+
+## `papers-organigram-2026/genealogy-graphs/`
+
+- Ball 2014. A family-centric genealogy visualization paradigm.pdf
+- Bezerianos 2010. GeneaQuilts. A system for exploring large genealogies.pdf
+- Fu 2017. How do ancestral traits shape family trees over generations.pdf
+- Gray 2023. A scalable method for readable tree layouts.pdf
+- Marik 2016. On large genealogical graph layouts.pdf
+- Newman 2026. Othram maps. A graph-powered platform for pedigree visualization and forensic intelligence.pdf
+- Nobre 2019. Lineage. Visualizing multivariate clinical data in genealogy graphs.pdf

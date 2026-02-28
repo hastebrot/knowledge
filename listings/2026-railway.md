@@ -1,0 +1,62 @@
+## `papers-railway-2026/`
+
+- Abuthawabeh 2017. Topological decomposition of directed graphs.pdf
+- Bachmaier 2008. Cyclic leveling of directed graphs.pdf
+- Bachmaier 2009. Coordinate assignment for cyclic level graphs.pdf
+- Bachmaier 2012. Drawing recurrent hierarchies.pdf
+- Balzer 2007. Level-of-detail visualization of clustered graph layouts.pdf
+- Beecham 2025. gridmappr. An R package for creating small multiple gridmap layouts.pdf
+- Bekos 2020. On turn-regular orthogonal representations.pdf
+- Betto 2025. ddRADseq applications for Petunia x hybrida clonal line breeding.pdf
+- Binucci 2024. Min-k-planar drawings of graphs.pdf
+- Brunner 2010, Thesis. Cyclic level drawings of directed graphs.pdf
+- Chiplunkar 2025. Automatic layout of railroad diagrams.pdf
+- Crnovrsanin 2017. An incremental layout method for visualizing online dynamic graphs.pdf
+- Croella 2024. A MaxSAT approach for solving a new dynamic discretization discovery model for train rescheduling problems.pdf
+- Cui 2018. PULSim. User-based adaptable simulation tool for railway planning and operations.pdf
+- Didimo 2006. Upward planar drawings and switch-regularity heuristics.pdf
+- Djordjevic 2024. An optimisation-based digital twin for automated operation of rail level crossings.pdf
+- Dobler 2025. Layered graph drawing with few gaps and few crossings.pdf
+- Dürrschnabel 2024. Realizability of rectangular Euler diagrams.pdf
+- Engels 2023. A symbolic design method for ETCS hybrid level 3 at different degrees of accuracy.pdf
+- Frey 2025. Sca2Gri. Scalable gridified scatterplots.pdf
+- Gestrelius 2022. Optimisation models for train timetabling and marshalling yard planning.pdf
+- Greiner-Fuchs 2024. A framework to define operational design domains for automated train operations.pdf
+- Harnack 2025, Thesis. Ctrl+F for diagrams.pdf
+- Hayatpur 2023. CrossCode. Multi-level visualization of program execution.pdf
+- Hayatpur 2025. The shapes of abstraction in data structure diagrams.pdf
+- Hedges 2019. Foundations of brick diagrams.pdf
+- Jungeblut 2017, Thesis. On internal planar graphs.pdf
+- Kloster 2023. An optimization-based decision support tool for incremental train timetabling.pdf
+- Kloster 2025. DISPLIB. A library of train dispatching problems.pdf
+- Li 2026. NCP. Neighborhood-preserving non-uniform circle packing for visualization.pdf
+- Lin 2024. An efficient local search solver for mixed integer programming.pdf
+- Luteberget 2016. Rule-based consistency checking of railway infrastructure designs.pdf
+- Luteberget 2018. Efficient verification of railway infrastructure designs against standard regulations.pdf
+- Luteberget 2019. RailCNL. A controlled natural language for railway design verification specifications.pdf
+- Luteberget 2019. Synthesis of railway signaling layout from local capacity specifications.pdf
+- Luteberget 2022. Abstraction refinement of parallel transition systems in an SMT-based timeline planner.pdf
+- Penel 2022. tidy tree. A new layout for phylogenetic trees.pdf
+- Ristic 2023. Automated development of railway signalling control tables. A case study from Serbia.pdf
+- Rubio-Madrigal 2024. Rendering string diagrams recursively.pdf
+- Rüegg 2017. Generalized layerings for arbitrary and fixed drawing areas.pdf
+- Sorin 2025. Application of a french cattle pangenome, from structural variant discovery to association studies on key phenotypes.pdf
+- Takahashi 2022. Gaze-driven placement of items for proactive visual exploration.pdf
+- Teller 2025. Bloom. Simplifying interactive diagram development with optimization constraints.pdf
+- Tu 2008. Balloon focus. A seamless multi-focus+context method for treemaps.pdf
+- Van der Ploeg 2013. Drawing non-layered tidy trees in linear time.pdf
+- Vignali 2019. A methodology for the design of sections block length on ETCS L2 railway networks.pdf
+- Wei 2024. Generating grid maps via the snake model.pdf
+- Wilson 2024. Evaluating and extending speedup techniques for optimal crossing minimization in layered graph drawings.pdf
+- Wilson 2025. Fast and readable layered network visualizations using large neighborhood search.pdf
+- Wu 2022. Multi-level area balancing of clustered graphs.pdf
+- Zhou 2025. Cluster-aware grid layout.pdf
+
+## `papers-railway-2026/railway-schematics/`
+
+- Brands 2016, Thesis. Automatic generation of schematic diagrams of the Dutch railway network.pdf
+- Grzybowski 2026. Automation of railway signalling system man machine interface design using linear programming optimization technique.pdf
+- Lan 2019. Integrating general principles into mixed-integer programming to optimize schematic network maps.pdf
+- Lan 2020. Automated labeling of schematic maps by optimization with knowledge acquired from existing maps.pdf
+- Luteberget 2019, Thesis. Automated reasoning for planning railway infrastructure.pdf
+- Luteberget 2021. Drawing with SAT. Four methods and a tool for producing railway infrastructure schematics.pdf
